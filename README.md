@@ -6,6 +6,8 @@ Creates a set of bingo cards. The amount, title and amount of bingo fields (has 
 
 Written in Python 3 with the pillow library. Install it with pip install pillow.
 
+Execute main.py file after setting the above mentioned parameters
+
 # Input
 
 The input.txt file should contain all possible values for your bingo card seperated by a semicolon (and whitespace). There is an exemplary input.txt given of German songs. 
