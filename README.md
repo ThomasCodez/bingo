@@ -4,9 +4,9 @@ Creates a set of bingo cards. The amount, title and amount of bingo fields (has 
 
 ## Execution
 
-Written in Python 3 with the pillow library. Install it with pip install pillow.
+Install required dependencies: `pip install -r requirements.txt`
 
-Execute main.py file after setting the above mentioned parameters
+After setting parameters mentioned above, `python -m main.py`
 
 ## Input
 
@@ -17,6 +17,4 @@ The input.txt file should contain all possible values for your bingo card sepera
 
 The script creates a new folder called output where all bingo cards are saved.
 
-## Misc
 
-This is my first OS project, please be kind to my code. I know it is not perfect. Use/Extend/Fix however you like 
